@@ -32,9 +32,33 @@ I'm particularly interested in backend engineering, REST APIs, fintech, and buil
 
 You'll probably find me reading, creating music, or playing video games. ♡
 
-### ୨୧ things i've built so far
+## 🌷 Things I've Built So Far
 
-<!-- We'll add your project cards and screenshots here -->
+A little collection of projects I've worked on, experimented with, and had fun building.
+
+### 📈 [Investment Portfolio API](https://github.com/Ouissem-S/Investment-Portfolio)
+
+A REST API built with Python and FastAPI for managing investment holdings, including stocks, ETFs and crypto. Designed with a clean, layered architecture.
+
+### 🎸 [Harry Styles: Dance All the Time](https://github.com/Ouissem-S/Harry-Styles-Wembley-Retro-2000s-game)
+
+A retro 2000s-inspired rhythm game based on my experience of seeing Harry Styles perform at Wembley. Pixel art, music and a little nostalgia.
+
+### 📖 [Facile](https://github.com/Ouissem-S/Facile)
+
+Take a picture of a book page and read it in simpler English or French.
+
+### 🎵 [Guess the Music](https://github.com/Ouissem-S/Guess-the-Music)
+
+An AI-powered music guessing game built with Python and an LLM API, exploring prompts, structured outputs and AI evaluation.
+
+### 🎤 [EUPHORIE](https://github.com/Ouissem-S/EUPHORIE)
+
+A live concert brought home — turning phones into synchronised wristband lights to recreate the feeling of being in a crowd.
+
+### 🌻 [SUNFLOWER](https://github.com/Ouissem-S/Sunflower)
+
+A webcam hand-tracking app that recreates the SpongeBob "Imagination" rainbow meme using OpenCV and MediaPipe Hands.
 
 ---
 
