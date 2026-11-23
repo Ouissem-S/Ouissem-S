@@ -11,7 +11,7 @@
 <h1 align="center">hello, i'm Wissem ♡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=18&duration=3000&pause=1000&color=C47791&center=true&vCenter=true&width=500&lines=Final-year+CS+with+AI+student;Aspiring+Software+Engineer;Exploring+backend+%26+fintech;Building+things+out+of+curiosity+%E2%99%A1" />
+  <img src="./assets/github-banner.png" width="100%" alt="Ouissem-S pixel art greenhouse banner" />
 </p>
 
 <p align="center">
