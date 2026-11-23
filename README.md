@@ -1,12 +1,8 @@
 <!-- 🌷 PROFILE HEADER -->
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Quicksand&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=C47791&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Final-year+CS+with+AI+student;Aspiring+Software+Engineer;Exploring+backend+%26+fintech;Building+things+out+of+curiosity+%E2%99%A1"
-    alt="Typing introduction"
-  />
+  <img src="./assets/greenhouse.png" width="100%" alt="Pixel art greenhouse" />
 </p>
-
 
 <h1 align="center">hello, i'm Wissem ♡</h1>
 
