@@ -1,7 +1,7 @@
 <!-- 🌷 PROFILE HEADER -->
 
 <p align="center">
-  <img src="./assets/greenhouse.jpg" width="100%" alt="Pixel art greenhouse"/>
+  <img src="./assets/greenhouse.jpg" width="100%" alt="Pixel art greenhouse" />
 </p>
 
 <h1 align="center">hello, i'm Wissem ♡</h1>
